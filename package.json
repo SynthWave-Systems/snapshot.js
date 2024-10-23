@@ -3,6 +3,7 @@
   "version": "0.12.28",
   "repository": "synthwave-systems/snapshot.js",
   "license": "MIT",
+  "private": false,
   "main": "dist/snapshot.cjs.js",
   "module": "dist/snapshot.esm.js",
   "browser": "dist/snapshot.min.js",
